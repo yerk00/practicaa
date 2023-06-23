@@ -1,0 +1,12 @@
+.boton{
+    background-color: pink;
+    height:62.4px;
+    width: 454.42px;
+    border-radius: 14px;
+    padding: 14px, 15px, 14px, 15px;
+    gap: 16.57px;
+    margin-top: 90px;
+    margin-left: 40px;
+    font-size: 28.4px;
+    color: black;
+}
